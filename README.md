@@ -5,8 +5,9 @@
 2. 前端框架：Bootstrap+jQuery
 3. 后端：servlet
 4. 数据库：MySQL
-5. MVC设计模式
-6. 每个都只需要懂一点点
+5. 编程语言：Java
+6. MVC设计模式
+7. 每个都只需要懂一点点
 
 
 

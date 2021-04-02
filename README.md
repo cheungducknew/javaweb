@@ -1,7 +1,7 @@
  # 使用
- 使用 `JavaWeb.sql` 导入MySQL数据，导入项目到  `NetBeans IDE 8.1` （也可以用eclipse或IDEA试试）
+ 使用 `JavaWeb.sql` 导入MySQL数据，导入项目到  `NetBeans IDE 8.1` （也可以用 `eclipse` 或`IDEA`试试）
  
- ps.项目说明也可以通过javadoc生成
+ ps.项目说明也可以通过 `javadoc` 生成
 
 
 
